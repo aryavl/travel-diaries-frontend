@@ -41,7 +41,7 @@ const Diaries = () => {
           />
         ))
       ) : (
-        <>"No post availble create new post"</>
+        <>Loading...</>
       )}
     </Box>
   );
